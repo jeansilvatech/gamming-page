@@ -1,0 +1,72 @@
+[
+    {
+        "name":"League of Legends",
+        "poster":"https://static-cdn.jtvnw.net/ttv-boxart/21779-285x380.jpg",
+        "banner":"../../assets/lol.png",
+        "tags":[
+            "rpg",
+            "moba",
+            "Ação"
+        ]
+    },
+    {
+        "name":"Fortnite",
+        "poster":"https://static-cdn.jtvnw.net/ttv-boxart/33214-285x380.jpg",
+        "banner":"../../assets/lol.png",
+        "tags":[
+            "rpg",
+            "jogo de tiro",
+            "Aventura"
+        ]
+    },
+    {
+        "name":"Valorant",
+        "poster":"https://static-cdn.jtvnw.net/ttv-boxart/516575-285x380.jpg",
+        "banner":"../../assets/lol.png",
+        "tags":[
+            "rpg",
+            "jogo de tiro",
+            "Aventura"
+        ]
+    },
+    {
+        "name":"Minecraft",
+        "poster":"https://static-cdn.jtvnw.net/ttv-boxart/27471_IGDB-285x380.jpg",
+        "banner":"../../assets/lol.png",
+        "tags":[
+            "rpg",
+            "jogo de tiro",
+            "Aventura"
+        ]
+    },
+    {
+        "name":"Genshin Impact",
+        "poster":"https://static-cdn.jtvnw.net/ttv-boxart/513181_IGDB-285x380.jpg",
+        "banner":"../../assets/lol.png",
+        "tags":[
+            "rpg",
+            "jogo de tiro",
+            "Aventura"
+        ]
+    },
+    {
+        "name":"Free Fire",
+        "poster":"https://static-cdn.jtvnw.net/ttv-boxart/502732_IGDB-285x380.jpg",
+        "banner":"../../assets/lol.png",
+        "tags":[
+            "rpg",
+            "jogo de tiro",
+            "Aventura"
+        ]
+    },
+    {
+        "name":"Call of Duty",
+        "poster":"https://static-cdn.jtvnw.net/ttv-boxart/512710-285x380.jpg",
+        "banner":"../../assets/lol.png",
+        "tags":[
+            "rpg",
+            "jogo de tiro",
+            "Aventura"
+        ]
+    }
+]
